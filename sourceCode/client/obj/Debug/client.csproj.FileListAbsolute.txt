@@ -1,0 +1,10 @@
+D:\BaiTap_C#\BTL_de_1\client\bin\Debug\client.exe.config
+D:\BaiTap_C#\BTL_de_1\client\bin\Debug\client.exe
+D:\BaiTap_C#\BTL_de_1\client\bin\Debug\client.pdb
+D:\BaiTap_C#\BTL_de_1\client\obj\Debug\client.Client.resources
+D:\BaiTap_C#\BTL_de_1\client\obj\Debug\client.Properties.Resources.resources
+D:\BaiTap_C#\BTL_de_1\client\obj\Debug\client.csproj.GenerateResource.cache
+D:\BaiTap_C#\BTL_de_1\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+D:\BaiTap_C#\BTL_de_1\client\obj\Debug\client.exe
+D:\BaiTap_C#\BTL_de_1\client\obj\Debug\client.pdb
+D:\BaiTap_C#\BTL_de_1\client\obj\Debug\client.csprojAssemblyReference.cache
